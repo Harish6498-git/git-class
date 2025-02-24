@@ -1,5 +1,7 @@
 #!/bin/bash
 
 # Addition Function
+# Substraction Function
 
 X=A+B
+Y=A-B
