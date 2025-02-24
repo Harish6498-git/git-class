@@ -3,7 +3,9 @@
 # Addition Function
 # Substraction Function
 # Multiplication Function
+# Division Function
 
 X=A+B
 Y=A-B
 Z=A*B
+W=A/B
